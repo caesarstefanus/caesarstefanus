@@ -1,8 +1,8 @@
 Hi, I’m @caesarstefanus.
 
-I’m interested in all things related to computer science and software engineering.
+I'm doing mostly backend stuff with C, C++, Go and Rust these days.
 
-Doing mostly backend stuff with C, C++, Go and Rust nowadays.
+Currently working full-time as software engineer and studying part-time at UT Austin, MSCSO program (I'm halfway there!).
 
 How to reach me: [LinkedIn](https://www.linkedin.com/in/caesarstefanus/)
 
